@@ -1,0 +1,6 @@
+pyrogram==1.4
+Telethon
+TgCrypto
+sqlalchemy
+psycopg2
+pyromod
