@@ -8,7 +8,7 @@ Hey {}
 
 Welcome to {}
 Bot For help You to Create Session.
-[➼](https://telegra.ph/file/793bea320641b9112afef.jpg) So What U Waiting For Generat STRING Session
+[➼](https://te.legra.ph/file/c5afe52bae6d9124af7f1.jpg) So What U Waiting For Generat STRING Session
 ───────────────────────
 
 If you don't trust this bot, 
@@ -18,7 +18,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-✗ Pᴏᴡᴇʀᴇᴅ 🔥 Bʏ: [❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °!](https://t.me/BANNA_XD)
+✗ Pᴏᴡᴇʀᴇᴅ 🔥 Bʏ: [ᎷᏒ-ᏒᎧፈᏦᏋᎩ ᏰᎧᏕᏕ °!](https://t.me/MR_ROCKEY_BOY)
     """
 
     # Home Button
@@ -33,12 +33,12 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🎉 Start Generating Session 🎉", callback_data="generate")],
-        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/AARU_SUPPORT")],
+        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/Couple_vibz")],
         [
             InlineKeyboardButton("How to Use 🤭❔", callback_data="help"),
             InlineKeyboardButton("😏 About 😏", callback_data="about")
         ],
-        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/AARU_SUPPORT")],
+        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/Couple_vibz")],
     ]
 
     # Help Message
@@ -59,7 +59,7 @@ You can use me to generate pyrogram and telethon string session. Use below butto
 
 A telegram bot to Manage group and generate pyrogram and telethon string session by @BANNA_XD
 
-❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 ° : [Click Here](https://t.me/love_birds_group)
+❛ᎷᏒ ᏒᎧፈᏦᏋᎩ ᏰᎧᏕᏕ ° : [Click Here](https://t.me/Wajahtumho)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
