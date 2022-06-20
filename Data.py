@@ -33,12 +33,12 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🎉 Start Generating Session 🎉", callback_data="generate")],
-        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/love_birds_group")],
+        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/AARU_SUPPORT")],
         [
             InlineKeyboardButton("How to Use 🤭❔", callback_data="help"),
             InlineKeyboardButton("😏 About 😏", callback_data="about")
         ],
-        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/love_birds_group")],
+        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/AARU_SUPPORT")],
     ]
 
     # Help Message
