@@ -1,9 +1,9 @@
-# ❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °
+# ❛-𝙈𝙍 𝙍𝙊𝘾𝙆𝙀𝙔 𝘽𝙊𝙎𝙎 °
 
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/AARAVXD143"><img src="https://telegra.ph/file/eaa1c3f8fc5a0b6605ee3.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/rock831"><img src="https://te.legra.ph/file/c5afe52bae6d9124af7f1.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/AARAVXD43/STRING-SESSION
+   git clone https://github.com/rock831/STRING-SESSION
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -61,14 +61,14 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-𝐂𝐇𝐀𝐍𝐍𝐄𝐋 :- [❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °](https://t.me/LOVE_HEART_BEAT_143)
+𝐂𝐇𝐀𝐍𝐍𝐄𝐋 :- [❛-𝙈𝙍 𝙍𝙊𝘾𝙆𝙀𝙔 𝘽𝙊𝙎𝙎°](https://t.me/Couple_vibz)
 
-𝐆𝐑𝐎𝐔𝐏 :- [𝐆𝐑𝐎𝐔𝐏 𝐒𝐔𝐏𝐏𝐎𝐑𝐓](https://t.me/love_birds_group)
+𝐆𝐑𝐎𝐔𝐏 :- [𝐆𝐑𝐎𝐔𝐏 𝐒𝐔𝐏𝐏𝐎𝐑𝐓](https://t.me/Wajahtumho)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AARAVXD132/STRING-SESSION) 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/rock831/STRINGSESSION) 
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/AARAVXD132/STRING-SESSION)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/rock831/STRINGSESSION)
